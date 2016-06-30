@@ -1,0 +1,1 @@
+﻿Very easy to validate if specialty is in faculty is in university but alas - no time to finish it
